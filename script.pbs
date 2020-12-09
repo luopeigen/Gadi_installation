@@ -9,7 +9,7 @@
 #PBS -l storage=scratch/jq14
 #PBS -N Model
 
-source /scratch/jq14/lp5029/codes/UWGeodynamics_2.9.10.sh
+source /scratch/jq14/lp5029/CODES/UWGeodynamics_2.9.10.sh
 
 MODELNAME="Model_Name"
 OUTPUTPATH=`pwd`
